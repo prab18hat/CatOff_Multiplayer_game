@@ -1,0 +1,28 @@
+Game Demonstration
+Features Overview
+1. Online Multiplayer:
+
+Lobby Creation: Players can create and join lobbies, with each lobby automatically sustaining up to 10 players.
+Max Players per Room: Each room supports a maximum of 10 players, ensuring a balanced and competitive gameplay experience.
+2. Controls:
+
+Joystick: Intuitive joystick controls for smooth and precise movement.
+Game-pad: Compatible with game-pads for enhanced control and a more immersive experience.
+3. Environments:
+
+Dynamic Gameplay: Environments such as waterfalls and fire alter gameplay. Players can hide under waterfalls or take burning damage from fire.
+4. Reward System:
+
+In-Game Rewards: Players earn rewards based on performance and achievements, encouraging continuous play and improvement.
+5. Game Settings:
+
+Customization: Players can customize game settings to suit their preferences, enhancing the overall gaming experience.
+6. AdMob Integration:
+
+Advertisements: Integrated AdMob for displaying ads, generating revenue while keeping the game free to play.
+7. Basic Attack Collision:
+
+Combat Mechanics: Simple attack collision detection for straightforward and engaging combat interactions.
+8. Simple Shared State:
+
+State Management: Utilizes a simple shared state system to keep game data consistent across all players and devices.
